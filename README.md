@@ -1,72 +1,65 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+# Olá, eu sou Gustavo! 👋
+
+Sou desenvolvedor apaixonado por tecnologia e inovação.  
+Atualmente, trabalho com **Python e testes automatizados** e estou sempre em busca de aprender mais!
+
+---
+
+## 🚀 Sobre Mim
+
+- 🔭 Atualmente trabalhando em: **Projetos especiais | Intelbras**
+- 🌱 Aprendendo: **Cypress, Banco de dados, Protocolos de redes**
+- 📫 Como me encontrar: [Meu Linkedin](www.linkedin.com/in/gustavo-eli) 
+
+---
+
+## 🛠️ Habilidades & Tecnologias
+
+<div>
+  <!-- Badges personalizadas (sinta-se livre para modificar) -->
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
+<!--   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
+<!--   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" /> --> 
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
+  <!-- Adicione outras tecnologias conforme necessário -->
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Gustavo! A passionate Software Engineering student from Brazil.
+---
 
-  - 🌱 I’m currently studying Software Engineering at Estácio
+## 📊 Estatísticas do GitHub
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work on automated projects and software development.
+<!-- Cartão de estatísticas. Configure com o seu username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoElidev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
+---
 
+## 🔝 Top Linguagens
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+<!-- Cartão das linguagens mais utilizadas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoElidev&layout=compact&theme=radical" alt="Top Linguagens" />
+</p>
 
-  - 💬 I'm a 21-year-old living in Brazil with experience in web development, particularly in HTML, CSS, and JavaScript. Currently, I'm seeking to expand my expertise in Python for backend development, as well as SQL and MongoDB for database management.
+---
 
-  - ⚡ I like reading, playing a good game, as well as watching movies! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
-</details>
+## 🤝 Conecte-se Comigo
 
-<!-- Links -->
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/) -->
+<p align="center">
+  <a href="https://github.com/GustavoElidev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="www.linkedin.com/in/gustavo-eli">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoelidev&theme=dark&show_icons=true)
+---
 
-<!-- Portfolio 
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)-->
-
-<!-- GIF 
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>-->
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </div> -->
-  
-  <!-- Skills: Libraries 
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>-->
+<!-- GIF de saudação (opcional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Olá" />
+</p>
